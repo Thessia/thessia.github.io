@@ -1,3 +1,5 @@
+<h1 class="project-name">Thessia</h1>
+
 # Thessia
 We're a community that likes writing Python code, put together by [Pandentia](https://github.com/Pandentia).
 
