@@ -1,4 +1,5 @@
 # Liara setup on Ubuntu Server 16.04 LTS
+
 ## Pre-flight checklist
 * Make sure to designate a folder and user to Liara
 * Make sure `git` is installed
@@ -7,6 +8,7 @@
 
 
 ##Installation
+
 You need to install Redis, so the first thing we do is run
 ```bash
 admin@demo:~$ sudo apt install redis-server
