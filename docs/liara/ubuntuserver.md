@@ -7,7 +7,7 @@
     * discord.py needs to be installed too
 
 
-##Installation
+## Installation
 
 You need to install Redis, so the first thing we do is run
 ```bash
