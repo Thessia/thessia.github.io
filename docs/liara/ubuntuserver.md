@@ -4,7 +4,7 @@
 * Make sure to designate a folder and user to Liara
 * Make sure `git` is installed
 * Make sure you have Python 3.5 or higher installed
-    * discord.py needs to be installed too
+    * discord.py and `redis-collections` need to be installed too
 
 
 ## Installation
