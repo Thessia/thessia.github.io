@@ -2,8 +2,8 @@
 
 ## Installation guides
 
-* [Ubuntu 16.04 LTS](ubuntuserver)
+* [Ubuntu 16.04 LTS](ubuntuserver.md)
 
 ## Other guides
 
-* [How to setup Liara as a service](service)
+* [How to setup Liara as a service](service.md)
