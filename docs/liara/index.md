@@ -3,6 +3,7 @@
 ## Installation guides
 
 * [Ubuntu 16.04 LTS](ubuntuserver.md)
+* [Arch Linux](arch.md)
 
 ## Other guides
 

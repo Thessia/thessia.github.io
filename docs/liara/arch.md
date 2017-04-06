@@ -1,21 +1,16 @@
-# Liara setup on Ubuntu Server 16.04 LTS
+# Liara setup on Arch Linux
 
 ## Pre-flight checklist
 * Make sure `git` is installed
 * Make sure you have Python 3.5 or higher and `pip3` installed
 
-
-
 ## Installation
 
-You need to install Redis, so the first thing we do is run
-
+Install and enable Redis with the following commands:
 ```bash
-admin@demo:~$ sudo apt install redis-server
+admin@demo:~$ sudo pacman -S redis
+admin@demo:~$ sudo systemctl enable redis.service
 ```
-
-This installs Redis and starts it.
-
 Run
 
 ```bash
